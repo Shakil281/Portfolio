@@ -1,4 +1,4 @@
-# Computer Science Student
+# Computer Science
 Shakil Ahmed Faisal
 📞 +1 (771) 242-45013 | 📧 faisal.shakilahme@bison.howard.edu | 🔗 LinkedIn
 
