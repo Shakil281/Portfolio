@@ -1,65 +1,52 @@
-# Computer Science
-Shakil Ahmed Faisal
-📞 +1 (771) 242-45013 | 📧 faisal.shakilahme@bison.howard.edu | 🔗 LinkedIn
 
-## Summary
-Computer Science student with hands-on experience in building scalable data pipelines, cloud automation, and analytics solutions. Skilled in Python, SQL, AWS (S3, Lambda, SageMaker), and PySpark, with a focus on optimizing ETL processes and large-scale data transformations. Passionate about leveraging data engineering and cloud computing to drive business insights and automation.
+SHAKIL AHMED FAISAL
+                           Washington, D.C., USA| 202-390-5807 | faisal@howard.edu | linkedin.com/in/shakil | GitHub
+EDUCATION 
 
-## EDUCATION
-Howard University – Washington, D.C.
-Bachelor of Science in Computer Science | Expected Graduation: May 2028
+Howard University	Washington, D.C.
+B.S. Computer Science	Expected Graduation: May 2028
+GPA: 3.78 (HU Achievers Scholarship Recipient)
+Core Courses:  Intro to Computer Science(CSCI-100); Exploration in Computer Science(CSCI-120); Computer Science I (CSCI-135);Computer Organization(CSCI-201); Intro to Cybersecurity(CSCI-453); CodePath Android App Development (AND-101); Calc-I; Calc-II; Intro to Linear Algebra.
+PROFESSIONAL EXPERIENCE
 
-## WORK EXPERIENCE
-GOES-R DataJam | NOAA – Arlington, VA
- Data Engineering Lead | Sep 2024 – Oct 2024
+University of Florida	Gainesville, Florida
+Digital Cell Imaging AI Research Intern	 June 2025 – August 2025
+Collaborated with a multidisciplinary research team to analyze spatial-omics data using AI-driven bioinformatics tools.
+Presented technical research findings using Scanpy and Python-based models to over 30 faculty members.
+Enhanced model accuracy by over 20% through iterative optimization and used  parallel data processing techniques to accelerate model training time by 30 %.
+Google	Washington, D.C.
+Google Student Developer Club Leader	August 2024 – May 2025
+Directed a cross-functional engineering team to build a web application using React, Flask, and Firebase, which now serves over 1500 active users.
+Led a web accessibility project that improved performance scores by 30%, emphasizing skills in front-end optimization and user interface development, aligning with requirements for GUI enhancement.
+Conducted comprehensive user research and gathered feedback to inform product roadmap decisions for 3+ applications, resulting in a 25% boost in user satisfaction.
 
-Designed and optimized 150+ SQL queries to extract and process multi-band GOES-R satellite data, enhancing weather model accuracy by 40% and reducing query execution time by 30%.
-Developed an ETL pipeline to automate satellite data ingestion, improving data availability for emergency response teams by 60%, enabling faster crisis decision-making.
-Implemented AWS-based data solutions to improve storage efficiency, integrating structured and semi-structured satellite data into a scalable analytics framework.
-Meta | Meta Above and Beyond Computer Science – Washington, D.C.
- Participant | Nov 2024 – Dec 2024
+Howard University Athletics	Washington, D.C.
+Data Analyst Intern (On-Campus)	January 2025 – May 2025
+Architected and deployed a suite of interactive Power BI dashboards, leveraging Python for data processing and automation, which cut reporting time for coaching staff by 35%.
+Performed opponent scouting analysis by processing historical game data, delivering weekly reports that identified strategic vulnerabilities and contributed to a 10% improvement in defensive plays.
+Collaborated with stakeholders across 3 athletic teams to define key performance indicators (KPIs) and translate complex datasets into actionable insights, influencing in-game and training strategies..
+PROJECTS & OUTSIDE EXPERIENCE
 
-Improved problem-solving efficiency by 40% through advanced algorithm training and participation in Meta-led competitive coding challenges.
-Refactored program codebases, reducing redundancy by 25% and improving modularity, accelerating feature development by two weeks.
-Collaborated with Meta engineers on industry best practices for data structures, contributing to optimized algorithmic solutions.
-PROJECT EXPERIENCE
+AidRoute (AI Agent for Community Tissue Triage)| React, Firebase, Python, REST API| link	Washington, D.C.
+Nvidia- Agents for Impact Hackathon	 October 27-28, 2025
+Developed an AI-powered triage and logistics coordination web platform that streamlines emergency distribution of medical resources using machine learning and real-time data processing.
+Integrated NVIDIA Nemotron (nano-9B-v2) model via NIM to power intelligent decision-making and automate community-level triage prioritization.
+Built a responsive React frontend and Firebase backend with real-time synchronization and secure REST API integration.
 
-## Image Classifier (Python, TensorFlow, AWS)
-Engineered a scalable ETL pipeline to automate image preprocessing, transforming raw datasets into structured inputs for a CNN model.
-Developed an automated data ingestion system that integrated and processed large-scale datasets in real-time.
-Optimized SQL-based transformations, reducing model training time by 30%.
-Statistical Approximation Toolkit
-Constructed Taylor Series Approximation functions to estimate nonlinear functions with user-defined precision.
-Built a derivative calculator using symbolic differentiation techniques, enabling higher-order derivative evaluations.
-Developed algorithms for Gaussian Elimination and LU Factorization, enabling efficient solutions for linear systems and matrix decompositions.
+Algorithmic Stock Market Predictor | C++11, STL, HPC	Washington, D.C.
+  Bank of America Code A Thon	March 2025 – April 2025
+Developed a predictive model using machine learning algorithms (ARIMA) in Python to forecast short-term stock price movements based on historical data and real-time news sentiment.
+Engineered a data pipeline to scrape and process large datasets of historical stock prices and financial news articles, employing statistical analysis and numerical programming with libraries like Pandas to clean and prepare the data.
+Built a simple command-line interface (CLI) in C++ to execute trade signals generated by the model, demonstrating proficiency in multiple programming languages and the ability to integrate different components of a system..
+TECHNICAL SKILLS
 
-## LEADERSHIP EXPERIENCE
-Google Developer Student Club | Howard University – Washington, D.C.
-Student Leader | Jan 2024 – Present
+Programming Languages: Python, C++, Kotlin, SQL, MATLAB(Basic)
+Frameworks & Technologies: Machine Learning (Scikit-learn, Pandas), Web (React, Chart.js, Firebase), Cloud (AWS S3)
+ACTIVITIES & LEADERSHIP
 
-Mentored students in cloud computing, machine learning, and full-stack development, improving their technical proficiency.
-Organized 3+ tech workshops with Google representatives, benefiting 100+ students.
-SKILLS
-## Programming Languages: Python, SQL
- Cloud & Big Data: AWS (S3, Lambda, EC2, SageMaker), Snowflake, PySpark
- Data Engineering & Automation: ETL pipelines, data wrangling, SQL optimization, batch & stream processing
- DevOps & Tools: Git, Linux scripting, Agile methodologies
 
-## HONORS & AWARDS
- Beamline for Schools Winner – CERN (2023)
-
-Selected as a winner in the prestigious CERN Beamline for Schools competition.
-Conducted high-energy physics research at CERN, collaborating with top scientists on advanced experiments.
- Meta Above and Beyond Computer Science Program (2024)
-
-Selected for an exclusive program designed to enhance problem-solving skills in data structures and algorithms.
-Achieved a 40% improvement in coding efficiency through advanced workshops.
-
- ## CodePath For-Credit – Intermediate Android Development (Fall 2024)
-Successfully completed CodePath’s Intermediate Android Development course for credit.
-Developed Android applications with Kotlin, Jetpack Compose, and MVVM architecture.
-
- Best Volunteer Award – Purnota Foundation (2024)
-
-Recognized for exceptional contributions to community service and youth empowerment initiatives.
-Led multiple outreach programs, mentoring underprivileged students in STEM education and career development.
+HU Bison Bytes 25’ (Hackathon)                                                                                                                              Washington, D.C.      Nominated as top 3 Hacker                                                                                                                                           March 22-23, 2025                                                                                                                                                                
+  Iranian Geometry Olympiad (IGO-2023)	                 Bangladesh, Dhaka
+Honorable Mention	 Jan 2018 –Dec 2023
+Bangladesh Mathematical Olympiad(BDMO)                                                                                                                                                                                                                                                                 
+National Winner 22’, 23’
